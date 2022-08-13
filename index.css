@@ -24,7 +24,8 @@
     display: flex;
 }
 .nav-links>li>a:hover{
-    color: cadetblue;
+    color: white;
+    background-color: rgb(5, 110, 110);
   
     
 
